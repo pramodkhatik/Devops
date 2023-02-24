@@ -1,4 +1,2 @@
-<<<<<<< HEAD
 This is the bug fix in development branch.
 This is gadbad code.
-This feature will gadbad everything from now.
